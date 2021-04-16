@@ -1,6 +1,5 @@
 # Gruppe3_ATdIT
-# tothemoon
-
+# archiviert wegen fehlender gitignore templates; neues Repository ATdIT-Gruppe_3
 Meeting 14.04.21
 
 Syncs jeweils Montag und Freitag um 08:00 Uhr
